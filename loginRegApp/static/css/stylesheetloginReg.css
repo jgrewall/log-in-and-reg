@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.flex{
+    display:flex;
+}
+.spacing{
+    margin-right: 20%;
+}
+.greentext{
+    color:green;
+}
+.blueUl{
+    color:blue;
+    text-decoration: underline;
+}
